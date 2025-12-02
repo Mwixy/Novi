@@ -11,17 +11,17 @@ Novi is currently configured for Windows but you can change that by editing the 
 - 🧠 Can make actions like "Turn the wifi off" or "Open Chrome"
 
 ## Installation
-Download Novi.py
-Add your CHATGPT Api Key to : "key = "Please Enter Your API Key here" #Api Key Here"
-Run the nececery PiPs
-Download a Python version that supports Pygame like Python 3.10.4
+-Download Novi.py
+-Add your CHATGPT Api Key to : "key = "Please Enter Your API Key here" #Api Key Here"
+-Run the nececery PiPs
+-Download a Python version that supports Pygame like Python 3.10.4
 
 ## Required PiPs
-pip install pygame
-pip install openai==0.28.1
-pip install edge-tts
-pip install SpeechRecognition
-pip install pipwin
-pipwin install pyaudio
+-pip install pygame
+-pip install openai==0.28.1
+-pip install edge-tts
+-pip install SpeechRecognition
+-pip install pipwin
+-pipwin install pyaudio
 
 
