@@ -1,4 +1,4 @@
-# =============== GUI ONAY + TAM UYGULAMA ===============
+# Made by Mwixy in 2025 as TeamNovi
 import os, json, threading, asyncio, tempfile, sys, subprocess, pygame
 import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext
