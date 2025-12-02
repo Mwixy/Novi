@@ -24,4 +24,10 @@ Novi is currently configured for Windows but you can change that by editing the 
 - pip install pipwin
 - pipwin install pyaudio
 
+  ## Get ChatGPT Api From
+  -- https://platform.openai.com/
+
+  ## Support Me!
+  -- https://ko-fi.com/mwixys
+
 
