@@ -1,13 +1,13 @@
 # 🧠 Novi – Your Personal Desktop Assistant
 
-Novi is a AI Powered, open-source assistant built with Python, Vosk, and Edge TTS. It can recognize voice commands, talk, run actions, and sleep.
+Novi is a AI Powered, open-source assistant built with Python, PyGame, and Edge TTS. It can recognize voice commands, talk, run actions, and sleep.
 Novi is currently configured for Windows but you can change that by editing the code.
 
 ## Features
-- 🎤 Wake-word detection with Vosk
+- 🎤 Listens to you.
 - 💬 Speech output using Edge TTS
 - 💬 Has personality and favorites
-- 🖱️ Tray icon with GUI controls
+- 🖱️ Tkinter GUI.
 - 🧠 Can make actions like "Turn the wifi off" or "Open Chrome"
 
 ## Installation
